@@ -1,0 +1,20 @@
+/* Background */
+*{
+    background-color:yellow;
+}
+/* Universal Selector */
+ *{
+    color: green;
+}
+/* Type Selector */
+h2, h3 {
+    color: blue;  
+}
+/* Class Selector */
+. div{
+    color: brown;
+}
+/* Id Selector */
+#Contact{
+    color: black;
+}
